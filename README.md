@@ -45,6 +45,8 @@ The goal is to understand Netflix’s content strategy using data-driven insight
 
 ## 📂 Project Structure
 
+ ``` 
+
 netflix-content-strategy-analysis/
 │
 ├── notebook/
@@ -55,6 +57,7 @@ netflix-content-strategy-analysis/
 │
 ├── README.md
 ├── requirements.txt
+  ``` 
 
 
 ---
