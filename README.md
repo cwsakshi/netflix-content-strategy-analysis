@@ -1,3 +1,9 @@
+## 🎯 Business Problem
+
+Netflix needs to understand content trends, audience preferences, and global expansion strategies to optimize its content investment decisions.
+
+---
+
 # 🎬 Netflix Content Strategy Analysis
 
 > 🚀 First Data Analysis Project — Focused on extracting business insights from real-world data
