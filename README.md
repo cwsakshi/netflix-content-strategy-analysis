@@ -1,55 +1,75 @@
-## 🎯 Business Problem
-
-Netflix needs to understand content trends, audience preferences, and global expansion strategies to optimize its content investment decisions.
-
----
-
 # 🎬 Netflix Content Strategy Analysis
 
-> 🚀 First Data Analysis Project — Focused on extracting business insights from real-world data
+## 📌 Project Overview
+
+This project analyzes Netflix's content dataset to uncover trends in content growth, genre distribution, ratings, and global expansion strategy. The goal is to extract meaningful business insights using data analysis techniques.
 
 ---
 
-## 📌 Overview
-This project analyzes Netflix’s content dataset to uncover patterns in content growth, distribution, genres, and audience targeting.
+## 🎯 Business Problem
 
-The goal is to understand Netflix’s content strategy using data-driven insights.
-
----
-
-## 🎯 Objectives
-- Analyze Movies vs TV Shows distribution  
-- Study content growth over time  
-- Identify top genres and countries  
-- Understand audience targeting through ratings  
+Netflix needs to understand content trends, audience preferences, and global expansion strategies to optimize its content investment decisions and maximize user engagement.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tech Stack
+
 - Python  
 - Pandas  
+- NumPy  
 - Matplotlib  
 - Seaborn  
 
 ---
 
-## 📊 Key Insights
-- Netflix content grew rapidly after 2015  
-- Movies dominate the platform, but TV shows are increasing  
-- Drama & international content are the most common  
-- Most movies are 80–120 minutes long  
-- Netflix focuses heavily on mature audiences (TV-MA)  
+## 📊 Sample Visualization
+
+![Netflix Genre Distribution](images/netflix_genre_distribution.png)
 
 ---
 
-## 📈 Advanced Insights
-- Netflix scaled aggressively during the global streaming boom  
-- Increasing TV show production indicates focus on long-term engagement  
-- Growth in international content reflects global expansion strategy  
+## 📌 Key Insights
+
+- Netflix content grew exponentially after 2015  
+- Movies dominate the platform, but TV Shows are rapidly increasing  
+- Most content is rated **TV-MA**, indicating mature audience targeting  
+- Majority of movies fall within **80–120 minutes duration**  
+- Top genres include **Drama, Documentaries, and Stand-Up Comedy**
 
 ---
 
-## 📂 Project Structure
+## 🚀 Strategic Insights
+
+- Increasing TV show production suggests focus on long-term user engagement  
+- Growth in international content reflects Netflix’s global expansion strategy  
+- Consistent movie duration indicates optimization for viewer retention  
+- Dominance of mature content highlights target audience preferences  
+
+---
+
+## ⚠️ Limitations
+
+- Dataset contains data only up to 2020  
+- Missing values in some columns may affect accuracy  
+- No user engagement or watch-time data available  
+- Genre data is combined in a single column, limiting deeper analysis  
+
+---
+
+## 🔮 Future Outlook
+
+Netflix is likely to continue investing in international content and expanding its TV show library. The platform may further optimize content length and diversify genres to maintain global audience engagement.
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how data analysis can be used to extract meaningful insights and understand real-world business strategies. It highlights Netflix’s focus on global expansion and engagement-driven content.
+
+---
+
+## 📁 Project Structure
+
 
 ```
 netflix-content-strategy-analysis/
@@ -66,14 +86,7 @@ netflix-content-strategy-analysis/
 
 ---
 
-## 🚀 Conclusion
-This project demonstrates how data analysis can be used to extract meaningful insights and understand real-world business strategies.
-
----
-
 ## 👩‍💻 Author
-**Sakshi Singh**
 
----
-
-## ⭐ If you found this useful, feel free to star the repo!
+**Sakshi Singh**  
+Aspiring Data Scientist | Data Analytics Enthusiast  
